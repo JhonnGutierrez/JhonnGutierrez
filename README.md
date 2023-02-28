@@ -1,5 +1,7 @@
 # Jhonn Gutierrez | Frontend Developer
 
+« Every day learning something different, from psychology and illustration to programming and physics »
+
 ## About Me
 
 I am a frontend developer specialize in the implementation of web pages focused on the usability and accessibility of the end user, and I have skills in the integration of APIs and connection with the backend.
@@ -12,5 +14,3 @@ React
 Svelte
 Typescript 
 Sass
-
-> « Every day learning something different, from psychology and illustration to programming and physics »
