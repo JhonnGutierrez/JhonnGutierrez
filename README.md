@@ -1,10 +1,8 @@
-# Jhonn Gutierrez | Web Developer
+# Web Developer | Frontend Developer
 
 [My Portfolio and CV](https://jhonn-gutierrez.vercel.app/)
 
 ## About Me
-
-I'm a Web Developer | Frontend Developer.
 
 I have experience using Typescript, Next.js, React, Svelte, TailwindCSS, and Supabase to develop high-quality web applications. This Stack has allowed me to build my projects so far, but I always think about expanding my knowledge and reaching the next level (Next goal: T3 Stack).
 
