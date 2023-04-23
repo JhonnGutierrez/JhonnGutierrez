@@ -1,14 +1,18 @@
-# Jhonn Gutierrez | Frontend Developer
-
-« Every day learning something different, from psychology and illustration to programming and physics »
+# Jhonn Gutierrez | Web Developer
 
 [My Portfolio and CV](https://jhonn-gutierrez.vercel.app/)
 
 ## About Me
 
-I am a frontend developer specialize in the implementation of web pages focused on the usability and accessibility of the end user, and I have skills in the integration of APIs and connection with the backend.
+I'm a Web Developer | Frontend Developer.
 
-I adapt easily to new environments and technologies, and I am always looking for ways to improve my ability to create an exceptional user experience.
+I have experience using Typescript, Next.js, React, Svelte, TailwindCSS, and Supabase to develop high-quality web applications. This Stack has allowed me to build my projects so far, but I always think about expanding my knowledge and reaching the next level (Next goal: T3 Stack).
+
+I'm currently working on my own project "Jeenglish", a web application to practice your writing skills and improve your English thanks to the immediate feedback and various tools offered by the app.
+
+Programming has given me the skills to combine all the branches of learning I've been interested in (such as drawing, design, 3D modeling, mathematics, etc.) into a project that can help other people and that gives me so much satisfaction.
+
+I've gained a lot of valuable skills, experiences, and knowledge thanks to the web, so I'm very excited to work on it and give back the value it gave me all my life ♥.
 
 ## Principal Technologies
 
